@@ -1,0 +1,19 @@
+html {
+	background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/memphis-mini.png");
+}
+
+#container {
+
+	width: 750px;
+	
+	height: 400px;
+
+	margin: 100px auto;
+
+}
+
+p {
+	text-align: center;
+
+	font-size: 40px;
+}
